@@ -1,25 +1,25 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# FocusFizz: Smart Break Buddy 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:INNOVISTA
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: DIYA BETCY - GOVERNMENT ENGINEERING COLLEGE SREEKRISHNAPURAM
+- Member 2: JINU JOHN - GOVERNMENT ENGINEERING COLLEGE SREEKRISHNAPURAM
+- Member 3: FAZIL F - GOVERNMENT ENGINEERING COLLEGE SREEKRISHNAPURAM
 
 ### Project Description
-[2-3 lines about what your project does]
+**FocusFizz: Smart Break Buddy** is an interactive web app that boosts productivity through personalized, dynamic break prompts. It gently suggests fun mini-challenges, quirky facts, and short games to refresh your mind and keep focus engaging—perfect for balancing work with lighthearted breaks!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are *too productive* and rarely take fun, refreshing breaks during long work sessions. As a result, they miss out on spontaneous bursts of creativity, amusing trivia, and micro-challenges that could make workdays more enjoyable. FocusFizz solves the "problem" of overly serious work routines by introducing timely distractions to keep productivity fun and lively.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+FocusFizz swoops in with quirky breaks, mini-games, and random fun facts—perfectly timed to sneak a little fun into your workday. It's like having a personal assistant dedicated to keeping things interesting and making sure you don’t take productivity too seriously!
 
 ## Technical Details
 ### Technologies/Components Used
